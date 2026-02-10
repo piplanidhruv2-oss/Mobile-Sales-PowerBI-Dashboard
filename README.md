@@ -55,10 +55,11 @@ This dashboard supports data-driven decision-making by providing a clear and int
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](dashboard.png)
+![Dashboard Screenshot]( )
 
 ---
-##👨‍💻 Author
+##👨‍💻 Author<img width="766" height="462" alt="Mobile Sales Dashborad PowerBi" src="https://github.com/user-attachments/assets/82cbd545-c773-463d-9fd7-7919702afbaf" />
+
 
 ## Dhruv Piplani
 
