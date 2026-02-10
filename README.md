@@ -1,2 +1,16 @@
-# Mobile-Sales-PowerBI-Dashboard
-Developed an interactive Power BI dashboard to analyze mobile sales performance, revenue trends, brand-wise performance, customer ratings, and payment method distribution.
+📊 Mobile Sales Performance Dashboard (Power BI)
+
+This project analyzes mobile sales data to provide insights on:
+- Revenue Trends
+- Brand Performance
+- Customer Ratings
+- Payment Methods
+- City-wise Sales
+
+Tools Used:
+- Power BI
+- DAX
+- Power Query
+
+Author:
+Dhruv Piplani
